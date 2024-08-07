@@ -13,3 +13,4 @@ export default function DarkModeSwitch() {
       className='text-xl cursor-pointer hover:text-amber-500'/>}</div>
   )
 }
+ 
